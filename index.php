@@ -3,7 +3,7 @@
 <head>
 	<title>Websockets test</title>
 	<meta charset="utf-8">
-	<script src="http://localhost:5000/socket.io/socket.io.js"></script>
+	<script src="https://blooming-forest-89216.herokuapp.com/"></script>
 
 	<script src="script.js"></script>
 	
